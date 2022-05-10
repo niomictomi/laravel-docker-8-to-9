@@ -10,5 +10,5 @@ Update laravel docker 8 to 9
 2. Kita akan berfokus pada container ```app```, yaitu kontaier yang berisi file-file dari Framwork laravel.
 3. Pada konfigurasi file docker, silahkan sesuaika versi PHP untuk Laravel 9, yaitu minimal PHP versi 8.0.2.
 4. Masuk ke container ```app```, kemudikan jalankan ```composer update```
-5. Jika tidak ada error, maka silahkan cek versi laravel dengan command ```php artisan --versionnn```
+5. Jika tidak ada error, maka silahkan cek versi laravel dengan command ```php artisan --version```
 6. Selesai
